@@ -1,6 +1,7 @@
 const skills: string[] = ['dev', 'devops'];
 
 for (const skill of skills) {
-    console.log(skill);
-    
+  console.log(skill);
 }
+
+const a = 'asdad';
